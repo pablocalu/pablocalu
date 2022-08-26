@@ -9,15 +9,9 @@
 
 - 🌱 I’m currently learning **Mongo to improve my DB skills.**
 
-- 💬 Ask me about **JS, React, DataBases.**
-
 - 👨‍💻 All of my projects are available at [https://github.com/pablocalu?tab=repositories](https://github.com/pablocalu?tab=repositories)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/pablocarroit/](https://www.linkedin.com/in/pablocarroit/)
-
 - 📫 How to reach me **pablo.carro@live.com**
-
-- ⚡ Fun fact **I used to be a salesman, but I said why not have some fun with programming? And here I am.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
