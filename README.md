@@ -25,7 +25,9 @@
 <hr>
 <h3 align="left">Most used languages:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pablocalu&show_icons=true&locale=en&layout=compact" alt="pablocalu" /></p>
+<hr>
 <h3 align="left">GitHub stats:</h3>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=pablocalu&show_icons=true&locale=en" alt="pablocalu" /></p>
+<hr>
 <h3 align="left">Languages and Tools:</h3>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pablocalu&" alt="pablocalu" /></p>
