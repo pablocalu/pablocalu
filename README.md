@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/pablitocarro" target="blank"><img src="https://img.shields.io/twitter/follow/pablitocarro?logo=twitter&style=for-the-badge" alt="pablitocarro" /></a> </p>
 
-- 🌱 I’m currently learning **Mongo to improve my DB skills.**
+- 🌱 I’m currently learning GraphQL
 
 - 👨‍💻 All of my projects are available at [https://pablo-carro.vercel.app/](https://pablo-carro.vercel.app)
 
